@@ -1,11 +1,16 @@
 _repo: An-Enquiry-into-The-Life-and-Legend-of-Michael-Scot_55280
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55280-h/images/cover.jpg
 creator:
   author:
     agent_name: Brown, J. Wood
     gutenberg_agent_id: '48262'
     url: http://www.gutenberg.org/2009/agents/48262
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55280#An-Enquiry-into-The-Life-and-Legend-of-Michael-Scot
 gutenberg_issued: '2017-08-06'
 gutenberg_type: Text
 identifiers:
